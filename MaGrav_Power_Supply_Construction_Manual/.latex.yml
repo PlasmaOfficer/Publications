@@ -1,0 +1,3 @@
+# www.sharelatex.com config
+compiler: pdflatex
+root_file: main.tex
